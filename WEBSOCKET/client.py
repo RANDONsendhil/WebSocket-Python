@@ -1,4 +1,3 @@
-#From pycharm
 #coding:utf-8
 import socket
 host, port =('localhost',7000)
