@@ -1,7 +1,7 @@
 #coding:utf8
 import socket
 import threading
-# From Client Side
+# From Server Side
 
 class clientThread(threading.Thread):
     def __init__(self, client):
