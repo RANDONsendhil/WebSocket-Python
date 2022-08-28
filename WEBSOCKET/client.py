@@ -1,8 +1,5 @@
 #coding:utf-8
-# Added to git
-# This is for pull request
-# Second pull request from dev to master
-# Third pull request
+
 import socket
 host, port =('localhost',7000)
 socket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
