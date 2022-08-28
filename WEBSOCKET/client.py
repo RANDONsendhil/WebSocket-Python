@@ -1,4 +1,5 @@
 #coding:utf-8
+#Added to git
 import socket
 host, port =('localhost',7000)
 socket = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
